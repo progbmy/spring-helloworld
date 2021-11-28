@@ -1,6 +1,0 @@
-<beans>
-    <bean id="cat"
-          class = "Cat"
-          scope = "prototype">
-</bean>
-</beans>
